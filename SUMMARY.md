@@ -1,3 +1,4 @@
+
 # Summary
 
 * [Introduction](README.md)
@@ -7,7 +8,7 @@
 * [Lection #1](chapter-1/README.md)
   * [Windows](chapter-1/README.md#windows)
 	* [Начало работы](chapter-1/README.md#begining)
-	* [dir](chapter-1/README.md#dir)
+    * [dir](chapter-1/README.md#dir)
 	* [Аргументы комманд](chapter-1/README.md#arguments)
 	* [Ссылка на текущую директорию](chapter-1/README.md#current-dir)
 	* [Ссылка на родительскую директорию](chapter-1/README.md#parent-dir)
@@ -25,6 +26,21 @@
 	* [Ошибки](chapter-1/README.md#errors)
 	* [Переменные](chapter-1/README.md#variables)
 	* [Инструкции](chapter-1/README.md#statements)
-
+* [Lection #2](chapter-2/README.md)
+  * [Типы данных: числа](chapter-2/README.md#types)
+	* [Понятие типизации](chapter-2/README.md#types-definition)
+	* [Виды типизации](chapter-2/README.md#types-cases)
+	* [Литералы чисел](chapter-2/README.md#literal)
+    * [Отличия между целыми и дробными числами](chapter-2/README.md#difference)
+	* [Недопустимы действия](chapter-2/README.md#exceptions)
+  * [Операторы для работы с числами](chapter-2/README.md#operators)
+	* [Простые арифметические операторы](chapter-2/README.md#math)
+	* [Возведение в степень и остаток от деления](chapter-2/README.md#complex-math)
+	* [Сложные операторы](chapter-2/README.md#inc-operators)
+  * [Функции и программы](chapter-2/README.md#functions)
+	* [Исользование встроенных функций](chapter-2/README.md#build-in)
+	* [Функции, работающие с числами](chapter-2/README.md#number-functions)
+	* [Вывод данных](chapter-2/README.md#print)
+	* [Запуск скриптов из консоли](chapter-2/README.md#run-script)
 ### Module #2
 ### Module #3

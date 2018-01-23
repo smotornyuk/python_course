@@ -63,3 +63,5 @@ drwxr-xr-x  3 sergey sergey 4096 Jan 16 22:34 ncd
 drwxr-xr-x 11 sergey sergey 4096 Jan 14 16:29 python
 [sergey@home /]$
 ```
+
+> [Дополнительная информация](http://www.linuxcenter.ru/lib/books/shell/) для начинающих пользователей unix систем

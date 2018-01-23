@@ -10,7 +10,7 @@ kbd {
 ------------
 ## Работа с коммандной строкой
 
-### Windows
+### Windows {#windows}
 {% include './windows.md' %}
 
 ### Unix {#unix}

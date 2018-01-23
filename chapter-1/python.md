@@ -169,3 +169,9 @@ SyntaxError: invalid syntax
 ...    hello
 ...
 ```
+
+> Скачать python можно с [официального сайта](https://www.python.org/downloads/windows/)
+>
+> [Пошаговое руководство](https://python-scripts.com/install-python-windows)
+>
+> PS. Напутствие автора: НЕ ЗАБУДЬТЕ ОТМЕТИТЬ ДОБАВЛЕНИЕ В PATH: ![installer](../static/python-installation-options.png)

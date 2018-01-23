@@ -209,3 +209,5 @@ Z:\home\sergey\Projects>cd ..\.\.\.\.\.\Projects
 
 Z:\home\sergey\Projects>
 ```
+
+> [Введение](http://it-like.ru/kak-zapustit-komandnaya-stroka-windows-7-8-komandyi/) в пользование коммандной строкой и [список комманд](http://ab57.ru/cmdlist.html)
