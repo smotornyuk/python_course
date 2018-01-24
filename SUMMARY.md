@@ -50,10 +50,13 @@
 	* [Конкатенация](chapter-3/README.md#concat)
 	* [Повторение](chapter-3/README.md#repeat)
 	* [Форматирование](chapter-3/README.md#format-old)
+	* [Индексы](chapter-3/README.md#index)
   * [Функции](chapter-3/README.md#functions)
 	* [Форматирование](chapter-3/README.md#format-new)
 	* [Преобразование](chapter-3/README.md#conv)
 	* [Методы](chapter-3/README.md#method)
 	* [Методы строк](chapter-3/README.md#str-methods)
+		* [Неполный список методов](chapter-3/README.md#method-list)
+		* [Цепочный вызов](chapter-3/README.md#chains)
 ### Module #2
 ### Module #3
