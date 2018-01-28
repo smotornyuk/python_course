@@ -26,7 +26,7 @@
 	* [Ошибки](chapter-1/README.md#errors)
 	* [Переменные](chapter-1/README.md#variables)
 	* [Инструкции](chapter-1/README.md#statements)
-* [Материал #1]()
+* [Материал #1](chapter-1/script.md)
 * [Lection #2](chapter-2/README.md)
   * [Типы данных: числа](chapter-2/README.md#types)
 	* [Понятие типизации](chapter-2/README.md#types-definition)
