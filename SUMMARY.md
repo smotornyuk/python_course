@@ -43,7 +43,7 @@
 	* [Функции, работающие с числами](chapter-2/README.md#number-functions)
 	* [Вывод данных](chapter-2/README.md#print)
 	* [Запуск скриптов из консоли](chapter-2/README.md#run-script)
-* [Материал #2]
+* [Материал #2](chapter-2/script.md)
 * [Lection #3](chapter-3/README.md)
   * [Типы данных: строки](chapter-3/README.md#types)
 	* [Литералы строк](chapter-3/README.md#literal)
