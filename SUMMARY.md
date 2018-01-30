@@ -60,6 +60,6 @@
 	* [Методы строк](chapter-3/README.md#str-methods)
 		* [Неполный список методов](chapter-3/README.md#method-list)
 		* [Цепочный вызов](chapter-3/README.md#chains)
-* [Материал #3]
+* [Материал #3](chapter-3/script.md)
 ### Module #2
 ### Module #3
