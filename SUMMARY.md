@@ -57,9 +57,6 @@
 	* [Форматирование](chapter-3/README.md#format-new)
 	* [Преобразование](chapter-3/README.md#conv)
 	* [Методы](chapter-3/README.md#method)
-	* [Методы строк](chapter-3/README.md#str-methods)
-		* [Неполный список методов](chapter-3/README.md#method-list)
-		* [Цепочный вызов](chapter-3/README.md#chains)
 * [Материал #3](chapter-3/script.md)
 ### Module #2
 ### Module #3
