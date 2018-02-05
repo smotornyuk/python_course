@@ -13,8 +13,5 @@ kbd {
 ### Windows {#windows}
 {% include './windows.md' %}
 
-### Unix {#unix}
-{% include './unix.md' %}
-
 ### Интерпретатор python {#python}
 {% include './python.md' %}
