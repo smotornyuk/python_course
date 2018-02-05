@@ -53,7 +53,7 @@
 
 ---
 
-> 30.mkv
+> [types](https://drive.google.com/open?id=1Ui5xZj4sTcpTA1T7QDx0USgcomSEeep0)
 
 ## Видео\#2 - Типы данных: строки
 
@@ -114,7 +114,7 @@
 
 ---
 
-> 31.mkv
+> [escape](https://drive.google.com/open?id=1m5xsLyqXv-JDn6X0OF9PitjVOK_ilMLy)
 
 **Скринкаст**
 
@@ -191,7 +191,7 @@
 
 ---
 
-> 32.mkv
+> [slash](https://drive.google.com/open?id=1l7fTLaqTQQC2aSw4wTDLz-d7l5BJ7HVC)
 
 **скринкаст**
 
@@ -239,7 +239,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> 33.mkv
+> [newline](https://drive.google.com/open?id=1xQdHeHetwU-x4N74GVW2PB9JTWin5VEt)
 
 **Скринкаст**
 
@@ -261,7 +261,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> 34.mkv
+> [tab](https://drive.google.com/open?id=1Zri2UFxhoYrBEE-WNeWT9609ofc2ivsk)
 
 Вторым символом этой группы станет табуляция - \t. Она ведет себя
 совсем как обычный символ табуляции, просто экранированную
@@ -281,7 +281,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> 35.mkv
+> [tripple quotes](https://drive.google.com/open?id=13xTz4I5wACYdnquLWdxcSK340xC9J-6R)
 
 Еще одним вариантом литералов строк будет использование тройных
 кавычек. Такого символа не существует, но нам это не помешает. Мы
@@ -305,7 +305,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> 36.mkv
+> [concatenate](https://drive.google.com/open?id=1KnvkbFpRzaUjRV34LKgPn9D_NBSeboGL)
 
 **Скринкаст**
 
@@ -328,7 +328,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> 37.mkv
+> [formatting](https://drive.google.com/open?id=1nRy8_W7NLpssLI0iTD7z6znapdnp40-F)
 
 **Скринкаст**
 
@@ -399,7 +399,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> 38.mkv
+> [index](https://drive.google.com/open?id=1OgpJ6owVFbYORW3DCE9EMZ3bphYWg0Gg)
 
 Попробуем это все на деле...
 ```
@@ -446,7 +446,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> 39.mkv
+> [slice](https://drive.google.com/open?id=1dyBsYcdEdSuAhGoKVAvXusLRx6HUTCID)
 
 ```
 - создаем строку
@@ -510,7 +510,7 @@ print.
 
 ---
 
-> 40.mkv
+> [conv](https://drive.google.com/open?id=1c6HpqKQC46GsCAMsQCR5iGWrSmCdzbvK)
 
 ```
 - создаем тестовые переменные
@@ -620,7 +620,7 @@ print.
 
 ---
 
-> 41.mkv
+> [format method](https://drive.google.com/open?id=1LQ347rmIs86QrNs1n8wAgAvLXV0ibjvi)
 
 ```
 - создали строку

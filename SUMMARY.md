@@ -4,7 +4,9 @@
 
 ## Module \#1
 
-* [Lection \#1](chapter-1/README.md)
+### \#1
+
+* [Конспект](chapter-1/README.md)
   * [Windows](chapter-1/README.md#windows)
     * [Начало работы](chapter-1/README.md#begining)
     * [dir](chapter-1/README.md#dir)
@@ -25,8 +27,11 @@
     * [Ошибки](chapter-1/README.md#errors)
     * [Переменные](chapter-1/README.md#variables)
     * [Инструкции](chapter-1/README.md#statements)
-* [Материал \#1](chapter-1/script.md)
-* [Lection \#2](chapter-2/README.md)
+* [Материал](chapter-1/script.md)
+
+### \#2
+
+* [Конспект](chapter-2/README.md)
   * [Типы данных: числа](chapter-2/README.md#types)
     * [Понятие типизации](chapter-2/README.md#types-definition)
     * [Виды типизации](chapter-2/README.md#types-cases)
@@ -42,7 +47,11 @@
     * [Функции, работающие с числами](chapter-2/README.md#number-functions)
     * [Вывод данных](chapter-2/README.md#print)
     * [Запуск скриптов из консоли](chapter-2/README.md#run-script)
-* [Lection \#3](chapter-3/README.md)
+* [Материал](chapter-2/script.md)
+
+### \#3
+
+* [Конспект](chapter-3/README.md)
   * [Типы данных: строки](chapter-3/README.md#types)
     * [Литералы строк](chapter-3/README.md#literal)
     * [Экранирование спецсимволов](chapter-3/README.md#escape)
@@ -55,5 +64,4 @@
     * [Форматирование](chapter-3/README.md#format-new)
     * [Преобразование](chapter-3/README.md#conv)
     * [Методы](chapter-3/README.md#method)
-* [Материал \#2](chapter-2/script.md)
-* [Материал \#3](chapter-3/script.md)
+* [Материал](chapter-3/script.md)
