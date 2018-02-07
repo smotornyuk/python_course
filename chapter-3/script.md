@@ -53,7 +53,7 @@
 
 ---
 
-> [types](https://drive.google.com/open?id=1Ui5xZj4sTcpTA1T7QDx0USgcomSEeep0)
+> [types](https://drive.google.com/open?id=1dzL3pxpjJIoSLlak9xw0Wf8PlFcbIzjn)
 
 ## Видео\#2 - Типы данных: строки
 
@@ -114,7 +114,7 @@
 
 ---
 
-> [escape](https://drive.google.com/open?id=1m5xsLyqXv-JDn6X0OF9PitjVOK_ilMLy)
+> [escape](https://drive.google.com/open?id=1VENGd_Ykki1_xb8Eg4sb2rDoCzjM3djZ)
 
 **Скринкаст**
 
@@ -191,7 +191,7 @@
 
 ---
 
-> [slash](https://drive.google.com/open?id=1l7fTLaqTQQC2aSw4wTDLz-d7l5BJ7HVC)
+> [slash](https://drive.google.com/open?id=1sSBjZSlR3HRmQuXHNpA0jLaq2tVsxPFX)
 
 **скринкаст**
 
@@ -239,7 +239,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> [newline](https://drive.google.com/open?id=1xQdHeHetwU-x4N74GVW2PB9JTWin5VEt)
+> [newline](https://drive.google.com/open?id=1SG4VHps8jEdIHuUlhLsyu0fQP6cYRzGR)
 
 **Скринкаст**
 
@@ -261,7 +261,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> [tab](https://drive.google.com/open?id=1Zri2UFxhoYrBEE-WNeWT9609ofc2ivsk)
+> [tab](https://drive.google.com/open?id=1-cjM0BSI4Mpe2Ck8TavXkAeXA-sJYbum)
 
 Вторым символом этой группы станет табуляция - \t. Она ведет себя
 совсем как обычный символ табуляции, просто экранированную
@@ -281,7 +281,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> [tripple quotes](https://drive.google.com/open?id=13xTz4I5wACYdnquLWdxcSK340xC9J-6R)
+> [tripple quotes](https://drive.google.com/open?id=1pORGTG1x8EzIk9NW-cr1WMddMQl0OwGk)
 
 Еще одним вариантом литералов строк будет использование тройных
 кавычек. Такого символа не существует, но нам это не помешает. Мы
@@ -305,7 +305,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> [concatenate](https://drive.google.com/open?id=1KnvkbFpRzaUjRV34LKgPn9D_NBSeboGL)
+> [concatenate](https://drive.google.com/open?id=1UQoPCo0IyJe6MpsIqUD2cmJPbuGyujdX)
 
 **Скринкаст**
 
@@ -328,7 +328,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> [formatting](https://drive.google.com/open?id=1nRy8_W7NLpssLI0iTD7z6znapdnp40-F)
+> [formatting](https://drive.google.com/open?id=1RKaXVMG8Ih0rgU_CXFACe7PkJ6Ok4Jux)
 
 **Скринкаст**
 
@@ -399,7 +399,7 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> [index](https://drive.google.com/open?id=1OgpJ6owVFbYORW3DCE9EMZ3bphYWg0Gg)
+> [index](https://drive.google.com/open?id=14ceVAeLg5l_Feg7jMHL3kP9s9J_qJAw-)
 
 Попробуем это все на деле...
 ```
@@ -446,7 +446,8 @@ print же, в свою очередь, выводит данные в крас�
 
 ---
 
-> [slice](https://drive.google.com/open?id=1dyBsYcdEdSuAhGoKVAvXusLRx6HUTCID)
+> [slice](https://drive.google.com/open?id=1fiS4oNkQhmhExi7dPDF46kSm0RT429ml)
+> [slice](https://drive.google.com/open?id=1HbWLMeWAzkuy3vfdzNn_NfjE5vEjZEmK)
 
 ```
 - создаем строку
@@ -510,7 +511,7 @@ print.
 
 ---
 
-> [conv](https://drive.google.com/open?id=1c6HpqKQC46GsCAMsQCR5iGWrSmCdzbvK)
+> [conv](https://drive.google.com/open?id=1ys3XlhLWoJGvp-ujkmBFLjEnXG2ci4qJ)
 
 ```
 - создаем тестовые переменные
@@ -620,7 +621,7 @@ print.
 
 ---
 
-> [format method](https://drive.google.com/open?id=1LQ347rmIs86QrNs1n8wAgAvLXV0ibjvi)
+> [format method](https://drive.google.com/open?id=1sg5Rm-y4sqvk8Oe585Dm3vGrzG8vzzYi)
 
 ```
 - создали строку
