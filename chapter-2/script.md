@@ -249,7 +249,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Целые числа](https://drive.google.com/open?id=1rX2Nzr9LITya-uzo_IhclckoDQePDGXL)
+> [Целые числа](https://drive.google.com/open?id=1rX2Nzr9LITya-uzo_IhclckoDQePDGXL) - [литералы чисел - до](/chapter-2/#literal)
 
 **Скринкаст**
 
@@ -373,7 +373,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Системы счисления](https://drive.google.com/open?id=1tWiB3b75oCwiVxPleeCzdpkWF_RrVute)
+> [Системы счисления](https://drive.google.com/open?id=1tWiB3b75oCwiVxPleeCzdpkWF_RrVute) - [Литералы чисел - после](/chapter-2/#literal)
 
 **Скринкаст**
 
@@ -413,7 +413,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Дроби](https://drive.google.com/open?id=1ItyqsFySirCjkQlzt7Ef_Vtbdo-I9cpU)
+> [Дроби](https://drive.google.com/open?id=1ItyqsFySirCjkQlzt7Ef_Vtbdo-I9cpU) - [Отличия между целыми и дробными](/chapter-2/#difference)
 
 **Скринкаст**
 
@@ -489,7 +489,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Операторы](https://drive.google.com/open?id=1zmEoP57-AYEfjjk3fyn1ahEdl6Wt_iKO)
+> [Операторы](https://drive.google.com/open?id=1zmEoP57-AYEfjjk3fyn1ahEdl6Wt_iKO) - [Операторы для работы с числами](/chapter-2/#operators)
 
 **скринкаст**
 
@@ -571,7 +571,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Вычитание](https://drive.google.com/open?id=1rpsNHRuJfICgq_XSqUMiUUkhjEsHV-py)
+> [Вычитание](https://drive.google.com/open?id=1rpsNHRuJfICgq_XSqUMiUUkhjEsHV-py) - [одноименная секция](/chapter-2/#math)
 
 **Скринкаст**
 
@@ -600,7 +600,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Умножение](https://drive.google.com/open?id=1OLn3SYAMvhxd4-OCO5bFT5JcuAAjEesp)
+> [Умножение](https://drive.google.com/open?id=1OLn3SYAMvhxd4-OCO5bFT5JcuAAjEesp) - [одноименная секция](/chapter-2/#math)
 
 **Скринкаст**
 
@@ -625,7 +625,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Деление](https://drive.google.com/open?id=1hWfV1CQg98D6Sf_4Vva7Z2R6urN3j3E-)
+> [Деление](https://drive.google.com/open?id=1hWfV1CQg98D6Sf_4Vva7Z2R6urN3j3E-) - [одноименная секция](/chapter-2/#math)
 
 **Скринкаст**
 
@@ -650,7 +650,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Деление с округлением](https://drive.google.com/open?id=1TWE0flpz1_77qLOtCvPjs74O4bTUeEbv)
+> [Деление с округлением](https://drive.google.com/open?id=1TWE0flpz1_77qLOtCvPjs74O4bTUeEbv) - [Возведение в степень ...](/chapter-2/#complex-math)
 
 **Скринкаст**
 
@@ -705,7 +705,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Остаток от деления](https://drive.google.com/open?id=1m8wGbtysstDkor62zHEM5z06YIMtMa8V)
+> [Остаток от деления](https://drive.google.com/open?id=1m8wGbtysstDkor62zHEM5z06YIMtMa8V) - [Возведение в степень ...](/chapter-2/#complex-math)
 
 **Скринкаст**
 
@@ -751,7 +751,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Возведение в степень](https://drive.google.com/open?id=1_IJlUHSL3jmqKAGREeB0hOyjFLaz_PR6)
+> [Возведение в степень](https://drive.google.com/open?id=1_IJlUHSL3jmqKAGREeB0hOyjFLaz_PR6) - [Возведение в степень ...](/chapter-2/#complex-math)
 
 И возведение в степень. Думаю, оно будет наиболее простым среди
 последних трех операторов. Для данного действия мы используем два
@@ -779,7 +779,7 @@ python. Тогда, думаю, нам стоит продолжить эксп�
 
 ---
 
-> [Сложные операторы](https://drive.google.com/open?id=1c_Mxg0sqYi86pUsCQ6hwfpVT0xck5Qo7)
+> [Сложные операторы](https://drive.google.com/open?id=1c_Mxg0sqYi86pUsCQ6hwfpVT0xck5Qo7) - [одноименная секция](/chapter-2/#inc-operators)
 
 И последний рывок с операторами. Сложные операторы. Угрожающе звучит,
 но в реальности все элементарно. Представляем ситуацию. У вас есть
@@ -854,7 +854,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [exit](https://drive.google.com/open?id=1J71EhGz_X6FZ7r6gw5Nx_my_THVydAVG)
+> [exit](https://drive.google.com/open?id=1J71EhGz_X6FZ7r6gw5Nx_my_THVydAVG) - [встроенные функции](/chapter-2/#build-in)
 
 **Скринкаст**
 
@@ -882,7 +882,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [Функции](https://drive.google.com/open?id=1XD4anVXIZKcNlgLVdfd-rb3O_Lf2ZJjx)
+> [Функции](https://drive.google.com/open?id=1XD4anVXIZKcNlgLVdfd-rb3O_Lf2ZJjx) -  - [встроенные функции](/chapter-2/#build-in)
 
 **Скринкаст**
 
@@ -930,7 +930,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [max](https://drive.google.com/open?id=1HxM85QmVhzQnPY40y8BZprlsLRtJvmrV)
+> [max](https://drive.google.com/open?id=1HxM85QmVhzQnPY40y8BZprlsLRtJvmrV) - [функции, работающие с числами](/chapter-2/#number-functions)
 
 **Скринкаст**
 
@@ -951,7 +951,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [min](https://drive.google.com/open?id=1FdaG26x8csXMzKmYXkt9hrdhEaaJn6TQ)
+> [min](https://drive.google.com/open?id=1FdaG26x8csXMzKmYXkt9hrdhEaaJn6TQ)- [функции, работающие с числами](/chapter-2/#number-functions)
 
 **Скринкаст**
 
@@ -962,7 +962,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [abs](https://drive.google.com/open?id=1pydWx0lH7cYH_RKWvjVdije6J3wYZk_G)
+> [abs](https://drive.google.com/open?id=1pydWx0lH7cYH_RKWvjVdije6J3wYZk_G)- [функции, работающие с числами](/chapter-2/#number-functions)
 
 **Скринкаст**
 
@@ -973,7 +973,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [round](https://drive.google.com/open?id=13mjuHuZYTMrxdcJwuTzVHonKg_i1Cw3F)
+> [round](https://drive.google.com/open?id=13mjuHuZYTMrxdcJwuTzVHonKg_i1Cw3F)- [функции, работающие с числами](/chapter-2/#number-functions)
 
 **Скринкаст**
 
@@ -994,7 +994,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [pow](https://drive.google.com/open?id=1WfVZAJVhWywHC1nlkB0O6dSCAMZUebZi)
+> [pow](https://drive.google.com/open?id=1WfVZAJVhWywHC1nlkB0O6dSCAMZUebZi)- [функции, работающие с числами](/chapter-2/#number-functions)
 
 **Скринкаст**
 
@@ -1006,7 +1006,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [bin](https://drive.google.com/open?id=14gZp_jcZ5ZAnxlgCuhrbKrrPe8_rrCp8)
+> [bin](https://drive.google.com/open?id=14gZp_jcZ5ZAnxlgCuhrbKrrPe8_rrCp8)- [функции, работающие с числами](/chapter-2/#number-functions)
 
 **Скринкаст**
 
@@ -1020,7 +1020,7 @@ python - это выражение. Она имеет значение, кото
 
 ---
 
-> [print](https://drive.google.com/open?id=1tmI9iu2Y4qMYZsEkyot5VmJg3QM4DsiG)
+> [print](https://drive.google.com/open?id=1tmI9iu2Y4qMYZsEkyot5VmJg3QM4DsiG)- [вывод данных](/chapter-2/#print)
 
 И последняя на сегодня функция - print. Она выводит свои аргументы на
 экран. Полюбуемся...

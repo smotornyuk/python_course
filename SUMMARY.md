@@ -61,7 +61,7 @@
     * [Форматирование](chapter-3/README.md#format-old)
     * [Индексы](chapter-3/README.md#index)
   * [Функции](chapter-3/README.md#functions)
-    * [Форматирование](chapter-3/README.md#format-new)
     * [Преобразование](chapter-3/README.md#conv)
     * [Методы](chapter-3/README.md#method)
+    * [Форматирование](chapter-3/README.md#format-new)
 * [Материал](chapter-3/script.md)

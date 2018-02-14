@@ -73,7 +73,7 @@ Enter.
 
 ---
 
-> [Начало работы](https://drive.google.com/open?id=1LawXBfvan-nP1_NV7a_meDOrdvOBLo-E)
+> [Начало работы - Вводное видео, перед конспектом](https://drive.google.com/open?id=1LawXBfvan-nP1_NV7a_meDOrdvOBLo-E)
 
 **Windows: начало работы**
 
@@ -119,7 +119,7 @@ Enter.
 
 ---
 
-> [dir](https://drive.google.com/open?id=1_o2ByrjtLe1CMhNufMLHYISheC_jTVzA)
+> [dir](https://drive.google.com/open?id=1_o2ByrjtLe1CMhNufMLHYISheC_jTVzA) - [одноименная секция конспекта](/chapter-1#dir)
 
 **dir **
 
@@ -295,7 +295,7 @@ windows. Единственным корнем файловой системы �
 
 ---
 
-> [Unix](https://drive.google.com/open?id=1H_9CVhQRNmYVZzwYOkaEaC93mzltzwVt)
+> [Unix](https://drive.google.com/open?id=1H_9CVhQRNmYVZzwYOkaEaC93mzltzwVt) -  - [одноименная секция конспекта](/chapter-1#unix)
 
 **Unix**
 
@@ -348,7 +348,7 @@ dir\(не обращайте внимание на цвет - это мои на
 
 ---
 
-> [cd](https://drive.google.com/open?id=1GgmS9TaQEaKSt70wY1FIMZY2aGdsu5rd)
+> [cd](https://drive.google.com/open?id=1GgmS9TaQEaKSt70wY1FIMZY2aGdsu5rd) -  - [одноименная секция конспекта](/chapter-1#cd)
 
 **Скринкаст**
 
@@ -526,7 +526,7 @@ photoshop или современные игры, внесение неболь�
 
 ---
 
-> [tiobe.com](https://drive.google.com/open?id=1blGi73LRD51l4xuIYk9DR7aKQVS9mI9o)
+> [tiobe.com](https://drive.google.com/open?id=1blGi73LRD51l4xuIYk9DR7aKQVS9mI9o) - [Перед началом работы с интерпретатором](/chapter-1#python)
 
 **Скринкаст**
 
@@ -551,7 +551,7 @@ python у вас уже установлен. Но, контроль никог�
 
 ---
 
-> [python](https://drive.google.com/open?id=1kH5LIRWb_Z6ti8su1grNhZdC3L5ZcS0y)
+> [python](https://drive.google.com/open?id=1kH5LIRWb_Z6ti8su1grNhZdC3L5ZcS0y)  - [версия интерпретатора](/chapter-1#python-version)
 
 **Скринкаст**
 
@@ -606,7 +606,7 @@ python у вас уже установлен. Но, контроль никог�
 
 ---
 
-> [Интерпретатор](https://drive.google.com/open?id=1obJ37O5ttc_5BogjWxDwAVN2AFreHOyQ)
+> [Интерпретатор](https://drive.google.com/open?id=1obJ37O5ttc_5BogjWxDwAVN2AFreHOyQ) - [запуск и выход](/chapter-1#start-and-exit)
 
 **Скринкаст**
 
@@ -747,7 +747,7 @@ enter...
 
 ---
 
-> [Переменные](https://drive.google.com/open?id=1IitecyjErp8IhhkmJ2MGNvI7S00fMyTQ)
+> [Переменные](https://drive.google.com/open?id=1IitecyjErp8IhhkmJ2MGNvI7S00fMyTQ) - [одноименная секция конспекта](/chapter-1#variables)
 
 **Скринкаст**
 
