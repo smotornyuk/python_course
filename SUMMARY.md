@@ -4,6 +4,71 @@
 
 ## Module \#1
 
+### \#10
+
+* [Материал](chapter-10/script.md)
+
+### \#9
+
+* [Материал](chapter-9/script.md)
+
+### \#8
+
+* [Материал](chapter-8/script.md)
+
+### \#7
+
+* [Материал](chapter-7/script.md)
+
+### \#6
+
+* [Материал](chapter-6/script.md)
+
+### \#5
+
+* [Материал](chapter-5/script.md)
+
+### \#4
+
+* [Материал](chapter-4/script.md)
+
+### \#3
+
+* [Конспект](chapter-3/README.md)
+  * [Типы данных: строки](chapter-3/README.md#types)
+    * [Литералы строк](chapter-3/README.md#literal)
+    * [Экранирование спецсимволов](chapter-3/README.md#escape)
+  * [Операторы для работы со строками](chapter-3/README.md#operators)
+    * [Конкатенация](chapter-3/README.md#concat)
+    * [Повторение](chapter-3/README.md#repeat)
+    * [Форматирование](chapter-3/README.md#format-old)
+    * [Индексы](chapter-3/README.md#index)
+  * [Функции](chapter-3/README.md#functions)
+    * [Преобразование](chapter-3/README.md#conv)
+    * [Методы](chapter-3/README.md#method)
+    * [Форматирование](chapter-3/README.md#format-new)
+* [Материал](chapter-3/script.md)
+
+### \#2
+
+* [Конспект](chapter-2/README.md)
+  * [Типы данных: числа](chapter-2/README.md#types)
+    * [Понятие типизации](chapter-2/README.md#types-definition)
+    * [Виды типизации](chapter-2/README.md#types-cases)
+    * [Литералы чисел](chapter-2/README.md#literal)
+    * [Отличия между целыми и дробными числами](chapter-2/README.md#difference)
+    * [Недопустимыe действия](chapter-2/README.md#exceptions)
+  * [Операторы для работы с числами](chapter-2/README.md#operators)
+    * [Простые арифметические операторы](chapter-2/README.md#math)
+    * [Возведение в степень и остаток от деления](chapter-2/README.md#complex-math)
+    * [Сложные операторы](chapter-2/README.md#inc-operators)
+  * [Функции и программы](chapter-2/README.md#functions)
+    * [Исользование встроенных функций](chapter-2/README.md#build-in)
+    * [Функции, работающие с числами](chapter-2/README.md#number-functions)
+    * [Вывод данных](chapter-2/README.md#print)
+    * [Запуск скриптов из консоли](chapter-2/README.md#run-script)
+* [Материал](chapter-2/script.md)
+
 ### \#1
 
 * [Конспект](chapter-1/README.md)
@@ -28,40 +93,3 @@
     * [Переменные](chapter-1/README.md#variables)
     * [Инструкции](chapter-1/README.md#statements)
 * [Материал](chapter-1/script.md)
-
-### \#2
-
-* [Конспект](chapter-2/README.md)
-  * [Типы данных: числа](chapter-2/README.md#types)
-    * [Понятие типизации](chapter-2/README.md#types-definition)
-    * [Виды типизации](chapter-2/README.md#types-cases)
-    * [Литералы чисел](chapter-2/README.md#literal)
-    * [Отличия между целыми и дробными числами](chapter-2/README.md#difference)
-    * [Недопустимыe действия](chapter-2/README.md#exceptions)
-  * [Операторы для работы с числами](chapter-2/README.md#operators)
-    * [Простые арифметические операторы](chapter-2/README.md#math)
-    * [Возведение в степень и остаток от деления](chapter-2/README.md#complex-math)
-    * [Сложные операторы](chapter-2/README.md#inc-operators)
-  * [Функции и программы](chapter-2/README.md#functions)
-    * [Исользование встроенных функций](chapter-2/README.md#build-in)
-    * [Функции, работающие с числами](chapter-2/README.md#number-functions)
-    * [Вывод данных](chapter-2/README.md#print)
-    * [Запуск скриптов из консоли](chapter-2/README.md#run-script)
-* [Материал](chapter-2/script.md)
-
-### \#3
-
-* [Конспект](chapter-3/README.md)
-  * [Типы данных: строки](chapter-3/README.md#types)
-    * [Литералы строк](chapter-3/README.md#literal)
-    * [Экранирование спецсимволов](chapter-3/README.md#escape)
-  * [Операторы для работы со строками](chapter-3/README.md#operators)
-    * [Конкатенация](chapter-3/README.md#concat)
-    * [Повторение](chapter-3/README.md#repeat)
-    * [Форматирование](chapter-3/README.md#format-old)
-    * [Индексы](chapter-3/README.md#index)
-  * [Функции](chapter-3/README.md#functions)
-    * [Преобразование](chapter-3/README.md#conv)
-    * [Методы](chapter-3/README.md#method)
-    * [Форматирование](chapter-3/README.md#format-new)
-* [Материал](chapter-3/script.md)
