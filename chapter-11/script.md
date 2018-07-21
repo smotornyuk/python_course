@@ -28,7 +28,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1_8Zj7P-xpSGZyav6ywHPAOlUrXamm7UU
 определение классов
 
 -----
@@ -50,7 +50,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1XZ5QrtK3dqcRJuozfdi5YOOtxQ4PpkRy
 область видимости классов
 
 -----
@@ -67,7 +67,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=14PhcoTcP3d6IJPpP4IPoAlKjrMoD_YzG
 встроенные классы
 
 -----
@@ -90,7 +90,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1MdQxIURJKkK1rm-DncZ5hx8X7SrfEs_L
 создание объектов
 
 -----
@@ -112,7 +112,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1zckRrSZ1mW6WdbVWBiJ3KyF5jg7cEm1u
 методы объектов
 
 -----
@@ -133,7 +133,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1HAqpBNrkN0Mnl1UZyxc5SWKMQK4fPQqS
 self
 
 -----
@@ -151,7 +151,7 @@ self
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1mLemb6P-GqSehXDjsD_YgBHfzJmQ30pX
 2d point
 
 -----
@@ -179,7 +179,7 @@ self
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1W8o-5kRLo9MF_v62_OSMTz9mV2G2vcez
 Улучшения точки
 
 -----
@@ -206,7 +206,7 @@ self
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1K1Lmi26TTNnTLsqABz_eR8GZgq9-EcAN
 Свойства класса и объекта
 
 -----
@@ -228,7 +228,7 @@ self
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1FJdAZ8coWslHIA98ukr95ypRjBscecST
 работа со свойствами
 
 -----
