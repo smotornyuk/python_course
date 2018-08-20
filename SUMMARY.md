@@ -2,6 +2,25 @@
 
 * [Introduction](README.md)
 
+## Module \#2
+
+### \#14
+
+* [Материал](chapter-14/script.md)
+
+### \#13
+
+* [Материал](chapter-13/script.md)
+
+### \#12
+
+* [Материал](chapter-12/script.md)
+
+### \#11
+
+* [Материал](chapter-11/script.md)
+
+
 ## Module \#1
 
 ### \#12
