@@ -18,7 +18,7 @@
 
 (видео конспект)
 
-16-01-variables
+https://drive.google.com/open?id=1MHHnIWzGKvucdQ9XQze5B6_rGgmJ0rpM Переменные
 
 ----------------------------------------------------------------
 
@@ -39,7 +39,7 @@
 (видео конспект)
 
 
-16-02-if-for
+https://drive.google.com/open?id=14Ca3fgFBMQ0jRWrJA2CHhDoIjp0cn-Ct Инструкции
 
 ----------------------------------------------------------------
 
@@ -56,7 +56,7 @@
 
 (видео конспект)
 
-16-03-cycle-url-firstof
+https://drive.google.com/open?id=1ov8-HPNT7Y4lwppsi7wU4EfRxRQio453 cycle-url-firstof
 
 ----------------------------------------------------------------
 
@@ -75,7 +75,7 @@
 (видео конспект)
 
 
-16-04-ifchanged-with-load
+https://drive.google.com/open?id=1F40vYIe_uu1nkDqYSDnsWWmeoXcmomSl ifchanged-with-load
 
 ----------------------------------------------------------------
 
@@ -95,7 +95,7 @@
 
 (видео конспект)
 
-16-05-filters-default-case-cut-add
+https://drive.google.com/open?id=1EjCHTrUFIfjCp6ASbF3LtLvdTMJ3dRpD default-case-cut-add
 
 ----------------------------------------------------------------
 
@@ -115,7 +115,7 @@
 (видео конспект)
 
 
-16-06-yesno-trunc-urlize-length
+https://drive.google.com/open?id=1mrEKiYTKPS7xrbbmjOkIxvrq0F_uFBD8 yesno-trunc-urlize-length
 
 ----------------------------------------------------------------
 
@@ -136,7 +136,7 @@
 (видео конспект)
 
 
-16-07-dynamic-routes
+https://drive.google.com/open?id=1CHwMRvAoj4AfhSqjZKRrlWXdL9SoaJ4E Динамический роутинг
 
 
 ----------------------------------------------------------------
@@ -156,7 +156,7 @@ Django. Тем более я уже несколько раз оговорилс
 (видео конспект)
 
 
-16-08-custom-tags
+https://drive.google.com/open?id=1-UNh3wrp9GacBNTkQElunzVRV8DZ3wlX Создание тегов
 
 ----------------------------------------------------------------
 

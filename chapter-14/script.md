@@ -18,7 +18,7 @@
 (видео конспект)
 
 
-14-01-inheritance
+https://drive.google.com/open?id=1KxY3HZbOnSLN4HozQ33RmLO35pdnU5CN наследование
 
 ----------------------------------------------------------------
 
@@ -44,7 +44,7 @@
 (видео конспект)
 
 
-14-02-hierarchy
+https://drive.google.com/open?id=1Zj1lEzFyNt2DICY-G5f7sbnpjMWj8WKe Иерархия наследования
 
 ----------------------------------------------------------------
 
@@ -69,7 +69,7 @@
 (видео конспект)
 
 
-14-03-multiple-inheritance
+https://drive.google.com/open?id=1HTPt5VeZiQMiiNFvV2wb5-VGgVm73Rdo Множественное наследование
 
 ----------------------------------------------------------------
 
@@ -88,7 +88,7 @@
 (видео конспект)
 
 
-14-04-mro
+https://drive.google.com/open?id=1gnRpZrvjJ2LwTmnJoB92z5tCPLFqouSg mro
 
 ----------------------------------------------------------------
 
@@ -111,7 +111,7 @@
 (видео конспект)
 
 
-14-05-super
+https://drive.google.com/open?id=1CjiLyUDJ9fmaAxjdWEZGLtUBEYFapWwy super
 
 ----------------------------------------------------------------
 
@@ -133,7 +133,7 @@
 (видео конспект)
 
 
-14-06-built-ins-inheritance
+https://drive.google.com/open?id=1Pnf3k-Y4VLtrS2ldqQjhbd1ItP_mHuKH Наследование встроенных типов
 
 ----------------------------------------------------------------
 
@@ -161,7 +161,7 @@
 (видео конспект)
 
 
-14-07-try
+https://drive.google.com/open?id=1lkPsU26gvM1P7ftIrZDKdG55cwEwBztX try
 
 ----------------------------------------------------------------
 
@@ -185,7 +185,7 @@ except который работает в случае любой проблем
 (видео конспект)
 
 
-14-08-except
+https://drive.google.com/open?id=1-FTuZ50V9e-eCiQxUXeKwk84oe7lfLsT except
 
 ----------------------------------------------------------------
 
@@ -206,7 +206,7 @@ except который работает в случае любой проблем
 (видео конспект)
 
 
-14-09-raise
+https://drive.google.com/open?id=1pADtIPFCoBEppQDYs1rTKf8QXZZEIxtV raise
 
 
 ----------------------------------------------------------------
