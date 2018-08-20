@@ -24,7 +24,7 @@
 (видео конспект)
 
 
-
+https://drive.google.com/open?id=1oIGYlAfjSVm-HSiT2FhgZdqFvtmnuRpV
 импорт
 
 -----
@@ -47,7 +47,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1LAn_95jLFPkTpR5DZztBtyOSsGjRDwft
 расширеный импорт
 
 -----
@@ -68,6 +68,8 @@
 
 (видео конспект)
 
+
+https://drive.google.com/open?id=12xr-0HYRdTqwMjMkVHbFfFNlf_W2Ekv0
 импорт директорий
 
 
@@ -85,7 +87,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=139Q1SvRYsYEv3vqoGcWy7Kw5CiGo8I2W
 импорс с переименовыванием
 
 -----
@@ -107,7 +109,7 @@
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1dnIlPIx5wGUcdjTmhIx624hzvlyBSI1j
 проблемы импорта (если слишком долго, можно разрезать на два
 фрагмента: первый до 3:18, второй после 3:20) -----
 
@@ -126,6 +128,8 @@
 
 (видео конспект)
 
+
+https://drive.google.com/open?id=1xycSw4nL7QbQZa3D9CCuuQoGhNbJHBqz
 random
 
 
@@ -145,7 +149,7 @@ random
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1i_tP8I0R6QcNXR-xKhkJ8834A2OobFL5
 operator
 
 -----
@@ -173,7 +177,7 @@ operator
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=1Oe3nDQC2wSsL8y1mMcfyEmilM_22lqcd
 csv
 
 -----
@@ -191,7 +195,7 @@ csv
 
 (видео конспект)
 
-
+https://drive.google.com/open?id=19RRq0XHQZSXvJJ8Jqnn5m8ixXb_Tu4m_
 json
 
 -----
