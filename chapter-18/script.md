@@ -27,7 +27,7 @@
 (видео конспект)
 
 
-18-01-main-page
+https://drive.google.com/open?id=1oR2sudLEymOKd6rCFBs6qjBqY0GLFYKu Главная страница
 
 ----------------------------------------------------------------
 
@@ -71,7 +71,7 @@
 (видео конспект)
 
 
-18-02-search
+https://drive.google.com/open?id=1kvv7sMuvDTwl9f0OSHdEkttLM3FL-nba Поиск
 
 ----------------------------------------------------------------
 
@@ -102,7 +102,7 @@
 (видео конспект)
 
 
-18-03-create
+https://drive.google.com/open?id=161NLkUHc1IV5zPGdAbasWrpsPECdivlk Создание
 
 ----------------------------------------------------------------
 
@@ -119,7 +119,7 @@
 
 (видео конспект)
 
-18-04-form-class
+https://drive.google.com/open?id=103eaKSjM9qDVaSQ9-dSRbijxZGSxbXp- Класс формы
 
 ----------------------------------------------------------------
 
@@ -143,7 +143,7 @@
 
 (видео конспект)
 
-18-05-delete
+https://drive.google.com/open?id=1erQaRedcIBMK7Yo25NTr1x1FXKAbsfH9 Удаление
 
 ----------------------------------------------------------------
 
@@ -162,7 +162,7 @@
 (видео конспект)
 
 
-18-06-update
+https://drive.google.com/open?id=1j9w6s18QLvQeggdue-lRXSxG39DlAutU Обновление
 
 ----------------------------------------------------------------
 
@@ -182,7 +182,7 @@
 (видео конспект)
 
 
-18-07-generic
+https://drive.google.com/open?id=1yd9xZbO7b7x9MDeG2aBnF7g5MKQd6hk4 Generic views
 
 ----------------------------------------------------------------
 
@@ -202,7 +202,7 @@
 
 (видео конспект)
 
-18-08-admin
+https://drive.google.com/open?id=1KFBmtR2n2EqSwegoFnd_gP2xcv7Fz7w6 Административная секция
 
 ----------------------------------------------------------------
 
@@ -222,7 +222,7 @@
 (видео конспект)
 
 
-18-09-deploy
+https://drive.google.com/open?id=1j8xGzkI5YUW2jsLTcXiX4cn6EdYDFKFC Публикация сайта
 
 ----------------------------------------------------------------
 

@@ -4,6 +4,22 @@
 
 ## Module \#2
 
+### \#18
+
+* [Материал](chapter-18/script.md)
+
+### \#17
+
+* [Материал](chapter-17/script.md)
+
+### \#16
+
+* [Материал](chapter-16/script.md)
+
+### \#15
+
+* [Материал](chapter-15/script.md)
+
 ### \#14
 
 * [Материал](chapter-14/script.md)
